@@ -74,6 +74,9 @@ body {
 .contact_ms {
   font-size: smaller;
 }
+button:hover {
+  background-color: #cdc3e6;
+}
 
 .networking {
   display: flex;
